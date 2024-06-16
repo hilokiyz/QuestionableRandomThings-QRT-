@@ -1,0 +1,93 @@
+# Copyright (c) 2014-2015 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+ship "K.M.S. Tirpitz"
+	sprite "ship/tirpitzhull"
+	thumbnail ""
+	attributes
+		category "Heavy Warship"
+		"cost" 115000000
+		"shields" 50000
+		"hull" 13000
+		"required crew" 1710
+		"bunks" 2200
+		"mass" 5800
+		"drag" 20
+		"heat dissipation" .7
+		"fuel capacity" 1000
+		"cargo space" 150
+		"outfit space" 390
+		"weapon capacity" 150
+		"engine capacity" 95
+		weapon
+			"blast radius" 400
+			"shield damage" 8000
+			"hull damage" 4000
+			"hit force" 12000
+	outfits
+		"380mm Main Gun A"
+		"380mm Main Gun B"
+		"380mm Main Gun C"
+		"380mm Main Gun D"
+		"150mm Secondary Guns AL"
+		"150mm Secondary Guns AR"
+		"150mm Secondary Guns BL"
+		"150mm Secondary Guns BR"
+		"150mm Secondary Guns CL"
+		"150mm Secondary Guns CR"
+		"Heavy AM Turret AL"
+		"Heavy AM Turret AR"
+		"Heavy AM Turret BL"
+		"Heavy AM Turret BR"
+		"Heavy AM Turret CL"
+		"Heavy AM Turret CR"
+		"Heavy AM Turret DL"
+		"Heavy AM Turret DR"
+		"Tirpitz-class Shield Regenerator"
+		"Light Hull Repair Module"
+		"Heavy Cooling Module" 
+		"Heavy Battery Module"
+		"Wagner-Style Boilers" 2
+		"Tirpitz-Class Thruster"
+		"Tirpitz-class Steering"
+		"Jump Drive"
+		"Hyperdrive"
+		
+	engine 0 505
+	engine -16 484
+	engine 16 484
+	turret 0 -316.5 "380mm Main Gun A"
+	turret 0 -235.5 "380mm Main Gun B"
+	turret 0 258.5 "380mm Main Gun C"
+	turret 0 339.5 "380mm Main Gun D"
+	turret -53 -123 "150mm Secondary Guns AL"
+	turret 53 -123 "150mm Secondary Guns AR"
+	turret -62 -43 "150mm Secondary Guns BL"
+	turret 62 -43 "150mm Secondary Guns BR"
+	turret -60 106 "150mm Secondary Guns CL"
+	turret 60 106 "150mm Secondary Guns CR"
+	turret -48 -86 "Heavy AM Turret AL"
+	turret 48 -86 "Heavy AM Turret AR"
+	turret -66 0 "Heavy AM Turret BL"
+	turret 66 0 "Heavy AM Turret BR"
+	turret -49.5 73 "Heavy AM Turret CL"
+	turret 49.5 73 "Heavy AM Turret CR"
+	turret -43 138 "Heavy AM Turret DL"
+	turret 43 138 "Heavy AM Turret DR"
+	leak "leak" 30 50
+	leak "flame" 30 80
+	leak "big leak" 50 30
+	explode "small explosion" 25
+	explode "medium explosion" 35
+	explode "large explosion" 45
+	explode "huge explosion" 30
+	"final explode" "final explosion large"
+	description "K.M.S. Tirpitz was the first ship a certain someone has decided to built with modern technology. Still a bit crude, but formidable in the front of the republic"
+

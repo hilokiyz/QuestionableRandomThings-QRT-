@@ -1,0 +1,4 @@
+shipyard builtfunction
+	Shuttle
+	"K.M.S. Tirpitz"
+	"I.J.N. Yamato"

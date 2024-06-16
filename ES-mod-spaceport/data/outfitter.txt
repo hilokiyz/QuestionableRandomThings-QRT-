@@ -1,0 +1,8 @@
+outfitter retrofit
+	"Engine Priority"
+	"Outfit Priority"
+	"Weapon Priority"
+	"Gun Mount Expansion"
+	"Turret Mount Expansion"
+	"Apple Core"
+	"Thunderhead Piercer Launcher"

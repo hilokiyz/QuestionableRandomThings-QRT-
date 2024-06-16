@@ -1,0 +1,109 @@
+outfit "Engine Priority"
+	"engine capacity" 1
+	"outfit space" -1
+	"unplunderable" 1
+	category Systems
+outfit "Outfit Priority"
+	"outfit space" 1
+	"unplunderable" 1
+	category Systems
+outfit "Weapon Priority"
+	"weapon capacity" 1
+	"outfit space" -1
+	"unplunderable" 1
+	category Systems
+outfit "Gun Mount Expansion"
+	"gun ports" 1
+	"unplunderable" 1
+	category Systems
+outfit "Turret Mount Expansion"
+	"turret mounts" 1
+	"unplunderable" 1
+	"apples" 1
+	category Systems
+outfit "Apple Core"
+	"apples" -1
+	"unplunderable" 1
+	category Systems
+
+
+outfit "Thunderhead Piercer Launcher"
+	category "Guns"
+	cost 450000
+	thumbnail "outfit/thunderhead launcher"
+	"mass" 14
+	"outfit space" -26
+	"weapon capacity" -16
+	"gun ports" -1
+	weapon
+		sprite "projectile/thunderhead"
+			"no repeat"
+			"frame rate" .1
+		sound "thunderhead"
+		"submunition" "Thunderhead Piercer" 5
+		"split range" 1000
+		"fire effect" "meteor fire"
+		"die effect" "missile death"
+		"hit effect" "medium explosion"
+		"inaccuracy" 10
+		"velocity" 4
+		"lifetime" 900
+		"reload" 75
+		"firing energy" 18
+		"firing heat" 36
+		"acceleration" 1.1
+		"drag" .1
+		"turn" 2
+		"homing" 4
+		"infrared tracking" .9
+		"radar tracking" .6
+		"missile strength" 40
+	description "A very curious quarg has taken an interest to the Thunderhead Launcher, and merged it with Korath piercers to make slightly interesting abomination"
+
+outfit "Thunderhead Piercer"
+	weapon
+		sprite "projectile/thunderhead fragment"
+			"no repeat"
+			"frame rate" .1
+		"die effect" "missile death"
+		"hit effect" "small explosion"
+		"split range" 500
+		"inaccuracy" 90
+		"velocity" 2
+		"lifetime" 400
+		"acceleration" 1.4
+		"submunition" "Piercer Shard" 5
+		"drag" .1
+		"turn" 3
+		"homing" 4
+		"optical tracking" .9
+		"radar tracking" .6
+		"shield damage" 110
+		"hull damage" 80
+		"hit force" 150
+		"piercing" 0.1
+		"missile strength" 3
+
+
+outfit "Piercer Shard"
+	weapon
+		sprite "projectile/thunderhead fragment"
+			"no repeat"
+			"frame rate" .1
+		"die effect" "missile death"
+		"hit effect" "small explosion"
+		"inaccuracy" 90
+		"velocity" 2
+		"lifetime" 400
+		"acceleration" 1.4
+		"drag" .1
+		"turn" 3
+		"homing" 4
+		"optical tracking" .9
+		"radar tracking" .6
+		"shield damage" 110
+		"hull damage" 80
+		"hit force" 150
+		"piercing" 0.3
+		"missile strength" 3
+	

@@ -1,0 +1,518 @@
+# Copyright (c) 2014 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfit "380mm Main Gun A"
+	category "Turrets"
+	cost 3675000
+	thumbnail 
+	"mass" 180
+	"outfit space" -180
+	"weapon capacity" -180
+	"turret mounts" -1
+	"required crew" 55
+	weapon
+		sprite "projectile/piercer"
+			"frame rate" 5
+			"random start frame"
+		"hardpoint sprite" "hardpoint/maingunA"
+		"hardpoint offset" 0 80
+		sound "piercer"
+		"fire effect" "piercer fire"
+		"hit effect" "piercer impact"
+		"hit effect" "piercer explosion"
+		"die effect" "piercer explosion"
+		"cluster"
+		"inaccuracy" 7
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 40
+		"reload" 180
+		"burst count" 2
+		"burst reload" 0
+		"piercing" 0.05
+		"firing energy" 1500
+		"firing heat" 3000
+		"shield damage" 1250
+		"hull damage" 1000
+	description "The 380mm Main Gun doesn't have the impact of larger caliber guns, but the fast reload and decent penetration makes it up as a cruiser killer"
+
+outfit "380mm Main Gun B"
+	category "Turrets"
+	cost 3675000
+	thumbnail 
+	"mass" 180
+	"outfit space" -180
+	"weapon capacity" -180
+	"turret mounts" -1
+	"required crew" 55
+	weapon
+		sprite "projectile/piercer"
+			"frame rate" 5
+			"random start frame"
+		"hardpoint sprite" "hardpoint/maingunB"
+		"hardpoint offset" 0 80
+		sound "piercer"
+		"fire effect" "piercer fire"
+		"hit effect" "piercer impact"
+		"hit effect" "piercer explosion"
+		"die effect" "piercer explosion"
+		"cluster"
+		"inaccuracy" 7
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 40
+		"reload" 180
+		"burst count" 2
+		"burst reload" 0
+		"piercing" 0.05
+		"firing energy" 1500
+		"firing heat" 3000
+		"shield damage" 1250
+		"hull damage" 1000
+	description "The 380mm Main Gun doesn't have the impact of larger caliber guns, but the fast reload and decent penetration makes it up as a cruiser killer"
+
+outfit "380mm Main Gun C"
+	category "Turrets"
+	cost 3675000
+	thumbnail 
+	"mass" 180
+	"outfit space" -180
+	"weapon capacity" -180
+	"turret mounts" -1
+	"required crew" 55
+	weapon
+		sprite "projectile/piercer"
+			"frame rate" 5
+			"random start frame"
+		"hardpoint sprite" "hardpoint/maingunC"
+		"hardpoint offset" 0 80
+		sound "piercer"
+		"fire effect" "piercer fire"
+		"hit effect" "piercer impact"
+		"hit effect" "piercer explosion"
+		"die effect" "piercer explosion"
+		"cluster"
+		"inaccuracy" 7
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 40
+		"reload" 180
+		"burst count" 2
+		"burst reload" 0
+		"piercing" 0.05
+		"firing energy" 1500
+		"firing heat" 3000
+		"shield damage" 1250
+		"hull damage" 1000
+	description "The 380mm Main Gun doesn't have the impact of larger caliber guns, but the fast reload and decent penetration makes it up as a cruiser killer"
+
+outfit "380mm Main Gun D"
+	category "Turrets"
+	cost 3675000
+	thumbnail 
+	"mass" 180
+	"outfit space" -180
+	"weapon capacity" -180
+	"turret mounts" -1
+	"required crew" 55
+	weapon
+		sprite "projectile/piercer"
+			"frame rate" 5
+			"random start frame"
+		"hardpoint sprite" "hardpoint/maingunD"
+		"hardpoint offset" 0 80
+		sound "piercer"
+		"fire effect" "piercer fire"
+		"hit effect" "piercer impact"
+		"hit effect" "piercer explosion"
+		"die effect" "piercer explosion"
+		"cluster"
+		"inaccuracy" 7
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 40
+		"reload" 180
+		"burst count" 2
+		"burst reload" 0
+		"piercing" 0.05
+		"firing energy" 1500
+		"firing heat" 3000
+		"shield damage" 1250
+		"hull damage" 1000
+	description "The 380mm Main Gun doesn't have the impact of larger caliber guns, but the fast reload and decent penetration makes it up as a cruiser killer"
+
+outfit "150mm Secondary Guns AL"
+	category "Turrets"
+	cost 380000
+	thumbnail 
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		sprite "projectile/pulse"
+		"hardpoint sprite" "hardpoint/secgunAL"
+		"hardpoint offset" 0 32.5
+		sound "pulse"
+		"hit effect" "pulse impact"
+		"stream"
+		"inaccuracy" 5
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 18
+		"reload" 60
+		"burst count" 2
+		"burst reload" 5
+		"firing energy" 150
+		"firing heat" 120
+		"shield damage" 400
+		"hull damage" 600
+	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
+
+outfit "150mm Secondary Guns AR"
+	category "Turrets"
+	cost 380000
+	thumbnail 
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		sprite "projectile/pulse"
+		"hardpoint sprite" "hardpoint/secgunAR"
+		"hardpoint offset" 0 32.5
+		sound "pulse"
+		"hit effect" "pulse impact"
+		"stream"
+		"inaccuracy" 5
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 18
+		"reload" 60
+		"burst count" 2
+		"burst reload" 5
+		"firing energy" 150
+		"firing heat" 120
+		"shield damage" 400
+		"hull damage" 600
+	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
+
+outfit "150mm Secondary Guns BL"
+	category "Turrets"
+	cost 380000
+	thumbnail 
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		sprite "projectile/pulse"
+		"hardpoint sprite" "hardpoint/secgunBL"
+		"hardpoint offset" 0 32.5
+		sound "pulse"
+		"hit effect" "pulse impact"
+		"stream"
+		"inaccuracy" 5
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 18
+		"reload" 60
+		"burst count" 2
+		"burst reload" 5
+		"firing energy" 150
+		"firing heat" 120
+		"shield damage" 400
+		"hull damage" 600
+	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
+
+outfit "150mm Secondary Guns BR"
+	category "Turrets"
+	cost 380000
+	thumbnail 
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		sprite "projectile/pulse"
+		"hardpoint sprite" "hardpoint/secgunBR"
+		"hardpoint offset" 0 32.5
+		sound "pulse"
+		"hit effect" "pulse impact"
+		"stream"
+		"inaccuracy" 5
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 18
+		"reload" 60
+		"burst count" 2
+		"burst reload" 5
+		"firing energy" 150
+		"firing heat" 120
+		"shield damage" 400
+		"hull damage" 600
+	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
+
+outfit "150mm Secondary Guns CL"
+	category "Turrets"
+	cost 380000
+	thumbnail 
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		sprite "projectile/pulse"
+		"hardpoint sprite" "hardpoint/secgunCL"
+		"hardpoint offset" 0 32.5
+		sound "pulse"
+		"hit effect" "pulse impact"
+		"stream"
+		"inaccuracy" 5
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 18
+		"reload" 60
+		"burst count" 2
+		"burst reload" 5
+		"firing energy" 150
+		"firing heat" 120
+		"shield damage" 400
+		"hull damage" 600
+	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
+
+outfit "150mm Secondary Guns CR"
+	category "Turrets"
+	cost 380000
+	thumbnail 
+	"mass" 19
+	"outfit space" -19
+	"weapon capacity" -19
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		sprite "projectile/pulse"
+		"hardpoint sprite" "hardpoint/secgunCR"
+		"hardpoint offset" 0 32.5
+		sound "pulse"
+		"hit effect" "pulse impact"
+		"stream"
+		"inaccuracy" 5
+		"turret turn" 1
+		"velocity" 50
+		"lifetime" 18
+		"reload" 60
+		"burst count" 2
+		"burst reload" 5
+		"firing energy" 150
+		"firing heat" 120
+		"shield damage" 400
+		"hull damage" 600
+	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
+
+outfit "Heavy AM Turret AL"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMAL"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+outfit "Heavy AM Turret AR"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMAR"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+outfit "Heavy AM Turret BL"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMBL"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+outfit "Heavy AM Turret BR"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMBR"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+outfit "Heavy AM Turret CL"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMCL"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+outfit "Heavy AM Turret CR"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMCR"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+outfit "Heavy AM Turret DL"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMDL"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+outfit "Heavy AM Turret DR"
+	category "Turrets"
+	cost 220000
+	thumbnail 
+	"mass" 60
+	"outfit space" -10
+	"weapon capacity" -10
+	"turret mounts" -1
+	"required crew" 8
+	weapon
+		"hardpoint sprite" "hardpoint/AMDR"
+		"hardpoint offset" 0 17
+		"hit effect" "small anti-missile"
+		"turret turn" 3
+		"anti-missile" 10
+		"velocity" 550
+		"lifetime" 1
+		"reload" 7
+		"firing energy" 12
+		"firing heat" 5
+		"stream"
+	description "The Heavy AM Turret was based off the Anti-Air turret, but now been changed to target missiles instead of fighters"
+
+
+
+
+
+
+
+
+
+
+

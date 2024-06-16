@@ -1,0 +1,96 @@
+# Copyright (c) 2014-2016 by Michael Zahniser
+#
+# Endless Sky is free software: you can redistribute it and/or modify it under the
+# terms of the GNU General Public License as published by the Free Software
+# Foundation, either version 3 of the License, or (at your option) any later version.
+#
+# Endless Sky is distributed in the hope that it will be useful, but WITHOUT ANY
+# WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
+# PARTICULAR PURPOSE.  See the GNU General Public License for more details.
+
+outfit "Tirpitz-class Shield Regenerator"
+	category "Systems"
+	cost 300000
+	thumbnail 
+	"mass" 120
+	"outfit space" -100
+	"shield generation" 5
+	"shield generation multiplier" 0.2
+	"shield energy" 0
+	"energy consumption" 1
+	"shield heat" 3
+	description "With such a large shield, the original designer has incorportated some advanced shield regeneration structure to increase the speed of the shields recovery"
+
+outfit "Light Hull Repair Module"
+	category "Systems"
+	cost 64000
+	thumbnail
+	"mass" 50
+	"outfit space" -25
+	"hull repair rate" 1
+	"hull energy" 1
+	"hull heat" 1
+	description "A simple hull repair module incase a space debris has gone through the shield and struck the hull of the ship."
+
+outfit "Heavy Cooling Module"
+	category "Systems"
+	cost 15000
+	thumbnail 
+	"mass" 50
+	"outfit space" -50
+	"cooling" 100.5
+	description "As the ship is packed with new techology, new cooling systems were also designed to keep important systems from overheating"
+
+outfit "Heavy Battery Module"
+	category "Power"
+	cost 340000
+	thumbnail "outfit/large battery module"
+	"mass" 150
+	"outfit space" -50
+	"energy capacity" 15000
+	description "Since most of the system require energy, this module stores enough to keep the ship running for a while when there is a temporary failure in the power generators"
+
+outfit "Wagner-Style Boilers"
+	category "Power"
+	cost 5750000
+	thumbnail ""
+	"mass" 180
+	"outfit space" -180
+	"energy generation" 75
+	"heat generation" 100
+	description "The original Tirpitz have used 12 Wagner water-tube boilers as it's power supply, but with modern technology, the requirements and supply have been modified dramaticly."
+
+outfit "Tirpitz-Class Thruster"
+	category "Engines"
+	"cost" 2400000
+	thumbnail 
+	"mass" 300
+	"outfit space" -300
+	"engine capacity" -300
+	"thrust" 200
+	"thrusting energy" 50
+	"thrusting heat" 35
+	"flare sprite" "effect/atomic flare/large"
+		"frame rate" 11
+	"flare sound" "atomic large"
+	description "These thrusters seems to a modification of a set of alien thrusters, providing the thrust needed to move this beast along"
+
+outfit "Tirpitz-class Steering"
+	category "Engines"
+	"cost" 2100000
+	thumbnail 
+	"mass" 130
+	"outfit space" -130
+	"engine capacity" -130
+	"turn" 3000
+	"turning energy" 102
+	"turning heat" 78
+	"steering flare sprite" "effect/atomic flare/large"
+		"frame rate" 11
+	"steering flare sound" "atomic large"
+	description "As the displacement for the original battleship exceeding 42 thousand tons, this outfit crams every bit of power it can get into steering"
+
+
+
+
+
