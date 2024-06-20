@@ -65,10 +65,10 @@ ship "K.M.S. Tirpitz"
 	engine 16 484
 	turret 0 -316.5 "380mm Main Gun A"
 		angle 0
-		arc 330 30
+		arc 210 150
 	turret 0 -235.5 "380mm Main Gun B"
 		angle 0
-		arc 330 30
+		arc 210 150
 	turret 0 258.5 "380mm Main Gun C"
 		angle 180
 		arc 210 150
