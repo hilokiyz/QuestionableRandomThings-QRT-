@@ -23,9 +23,9 @@ ship "K.M.S. Tirpitz"
 		"heat dissipation" .7
 		"fuel capacity" 1000
 		"cargo space" 150
-		"outfit space" 390
-		"weapon capacity" 150
-		"engine capacity" 95
+		"outfit space" 1969
+		"weapon capacity" 914
+		"engine capacity" 430
 		weapon
 			"blast radius" 400
 			"shield damage" 8000
@@ -64,23 +64,59 @@ ship "K.M.S. Tirpitz"
 	engine -16 484
 	engine 16 484
 	turret 0 -316.5 "380mm Main Gun A"
+		angle 0
+		arc 330 30
 	turret 0 -235.5 "380mm Main Gun B"
+		angle 0
+		arc 330 30
 	turret 0 258.5 "380mm Main Gun C"
+		angle 180
+		arc 210 150
 	turret 0 339.5 "380mm Main Gun D"
+		angle 180
+		arc 210 150
 	turret -53 -123 "150mm Secondary Guns AL"
+		angle 0
+		arc 200 10
 	turret 53 -123 "150mm Secondary Guns AR"
+		angle 0
+		arc 350 120
 	turret -62 -43 "150mm Secondary Guns BL"
+		angle 270
+		arc 330 95
 	turret 62 -43 "150mm Secondary Guns BR"
+		angle 90
+		arc 355 120
 	turret -60 106 "150mm Secondary Guns CL"
+		angle 270
+		arc 265 30
 	turret 60 106 "150mm Secondary Guns CR"
+		angle 90
+		arc 330 95
 	turret -48 -86 "Heavy AM Turret AL"
+		angle 270
+		arc 270 90
 	turret 48 -86 "Heavy AM Turret AR"
+		angle 90
+		arc 270 90
 	turret -66 0 "Heavy AM Turret BL"
+		angle 270
+		arc 270 90
 	turret 66 0 "Heavy AM Turret BR"
+		angle 90
+		arc 270 90
 	turret -49.5 73 "Heavy AM Turret CL"
+		angle 270
+		arc 270 90
 	turret 49.5 73 "Heavy AM Turret CR"
+		angle 90
+		arc 270 90
 	turret -43 138 "Heavy AM Turret DL"
+		angle 270
+		arc 270 90
 	turret 43 138 "Heavy AM Turret DR"
+		angle 90
+		arc 270 90
 	leak "leak" 30 50
 	leak "flame" 30 80
 	leak "big leak" 50 30

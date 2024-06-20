@@ -12,9 +12,9 @@ ship "Ultra Protector"
 		"drag" 70
 		"heat dissipation" .15
 		"fuel capacity" 600
-		"cargo space" 1600
-		"outfit space" 4560
-		"weapon capacity" 1160
+		"cargo space" 400
+		"outfit space" 1900
+		"weapon capacity" 850
 		"engine capacity" 110
 		"force protection" 6
 		weapon
