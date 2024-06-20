@@ -168,13 +168,13 @@ outfit "150mm Secondary Guns AL"
 		"turret turn" 1
 		"velocity" 50
 		"lifetime" 18
-		"reload" 60
+		"reload" 40
 		"burst count" 2
 		"burst reload" 5
 		"firing energy" 150
 		"firing heat" 120
-		"shield damage" 400
-		"hull damage" 600
+		"shield damage" 200
+		"hull damage" 275
 	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
 
 outfit "150mm Secondary Guns AR"
@@ -197,13 +197,13 @@ outfit "150mm Secondary Guns AR"
 		"turret turn" 1
 		"velocity" 50
 		"lifetime" 18
-		"reload" 60
+		"reload" 40
 		"burst count" 2
 		"burst reload" 5
 		"firing energy" 150
 		"firing heat" 120
-		"shield damage" 400
-		"hull damage" 600
+		"shield damage" 200
+		"hull damage" 275
 	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
 
 outfit "150mm Secondary Guns BL"
@@ -226,13 +226,13 @@ outfit "150mm Secondary Guns BL"
 		"turret turn" 1
 		"velocity" 50
 		"lifetime" 18
-		"reload" 60
+		"reload" 40
 		"burst count" 2
 		"burst reload" 5
 		"firing energy" 150
 		"firing heat" 120
-		"shield damage" 400
-		"hull damage" 600
+		"shield damage" 200
+		"hull damage" 275
 	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
 
 outfit "150mm Secondary Guns BR"
@@ -255,13 +255,13 @@ outfit "150mm Secondary Guns BR"
 		"turret turn" 1
 		"velocity" 50
 		"lifetime" 18
-		"reload" 60
+		"reload" 40
 		"burst count" 2
 		"burst reload" 5
 		"firing energy" 150
 		"firing heat" 120
-		"shield damage" 400
-		"hull damage" 600
+		"shield damage" 200
+		"hull damage" 275
 	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
 
 outfit "150mm Secondary Guns CL"
@@ -284,13 +284,13 @@ outfit "150mm Secondary Guns CL"
 		"turret turn" 1
 		"velocity" 50
 		"lifetime" 18
-		"reload" 60
+		"reload" 40
 		"burst count" 2
 		"burst reload" 5
 		"firing energy" 150
 		"firing heat" 120
-		"shield damage" 400
-		"hull damage" 600
+		"shield damage" 200
+		"hull damage" 275
 	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
 
 outfit "150mm Secondary Guns CR"
@@ -313,13 +313,13 @@ outfit "150mm Secondary Guns CR"
 		"turret turn" 1
 		"velocity" 50
 		"lifetime" 18
-		"reload" 60
+		"reload" 40
 		"burst count" 2
 		"burst reload" 5
 		"firing energy" 150
 		"firing heat" 120
-		"shield damage" 400
-		"hull damage" 600
+		"shield damage" 200
+		"hull damage" 275
 	description "Whoever who designed the 150mm Secondary Guns has definitely made it so it has extended range with better dispersion. "
 
 outfit "Heavy AM Turret AL"
